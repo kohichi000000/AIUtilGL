@@ -1,3 +1,8 @@
+# ＡＩ利活用ガイドライン
 
+## ①適正利用の原則
 
-[Link to 1a](./jpn/detail/1a.md).
+* 主な論点
+** [ア 適正な範囲・方法での利用](./jpn/detail/1a.md)
+** [イ 人間の判断の介在](./jpn/detail/1b.md)
+** [ウ 関係者間の協力](./jpn/detail/1c.md)
