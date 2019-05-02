@@ -1,3 +1,3 @@
 
 
-[Link to 1a](./jpn/detals/1a.md).
+[Link to 1a](./jpn/detail/1a.md).
