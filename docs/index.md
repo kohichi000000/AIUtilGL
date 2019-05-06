@@ -16,5 +16,5 @@
 
 * 機械学習の一般的な流れ
 
-![一般的な流れ](https://github.com/kohichi000000/ImgForDraftAIUtilGL/blob/master/MLFlow.png)
+![一般的な流れ](https://kohichi000000.github.io/ImgForDraftAIUtilGL/MLFlow.png)
 
