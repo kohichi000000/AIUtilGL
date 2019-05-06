@@ -13,5 +13,8 @@
 
 
 ## AIシステムを理解するための参考
+
+* 機械学習の一般的な流れ
+
 ![一般的な流れ](https://github.com/kohichi000000/ImgForDraftAIUtilGL/blob/master/MLFlow.png)
 
