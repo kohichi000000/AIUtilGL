@@ -7,7 +7,6 @@
 * [a-適正な範囲・方法での利用](./jpn/detail/01.md#a-適正な範囲方法での利用)
 * [b-人間の判断の介在](./jpn/detail/01.md#b-人間の判断の介在)
 * [c-関係者間の協力](./jpn/detail/01.md#c-関係者間の協力)
-* [d-aaa](.jpn/detail/01.md#d-・)
 
 
 ## [②適正学習の原則](./jpn/detail/02.md)
